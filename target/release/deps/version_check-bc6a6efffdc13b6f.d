@@ -1,0 +1,10 @@
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/release/deps/libversion_check-bc6a6efffdc13b6f.rmeta: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/release/deps/libversion_check-bc6a6efffdc13b6f.rlib: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/release/deps/version_check-bc6a6efffdc13b6f.d: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs:

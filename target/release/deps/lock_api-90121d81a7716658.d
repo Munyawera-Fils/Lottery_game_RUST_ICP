@@ -1,0 +1,10 @@
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/release/deps/liblock_api-90121d81a7716658.rmeta: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/release/deps/liblock_api-90121d81a7716658.rlib: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/release/deps/lock_api-90121d81a7716658.d: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs:

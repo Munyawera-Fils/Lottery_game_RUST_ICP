@@ -1,0 +1,10 @@
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/wasm32-unknown-unknown/release/deps/liblogos-43c3866152536140.rmeta: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/lexer.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/source.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/internal.rs
+
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/wasm32-unknown-unknown/release/deps/liblogos-43c3866152536140.rlib: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/lexer.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/source.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/internal.rs
+
+/Users/MunyaweraFilsMac/Documents/RUST/project1/target/wasm32-unknown-unknown/release/deps/logos-43c3866152536140.d: /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/lib.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/lexer.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/source.rs /Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/internal.rs
+
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/lib.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/lexer.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/source.rs:
+/Users/MunyaweraFilsMac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/logos-0.12.1/src/internal.rs:
