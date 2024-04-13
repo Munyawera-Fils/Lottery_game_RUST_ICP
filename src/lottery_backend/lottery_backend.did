@@ -1,0 +1,5 @@
+service : {
+  draw_winner : () -> (opt principal);
+  is_active : () -> (bool) query;
+  participate : () -> ();
+}
