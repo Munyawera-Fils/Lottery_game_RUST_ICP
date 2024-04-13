@@ -1,16 +1,17 @@
 {
-    "canisters": {
-      "project1": {
-        "main": "src/lib.rs",
-        "type": "custom",
-        "candid": "src/project1.did", 
-        "wasm": "target/wasm32-unknown-unknown/release/project1.wasm" 
-      }
-    },
-    "defaults": {
-      "build": {
-        "output": "target/wasm32-unknown-unknown/release/project1.wasm"
-      }
+  "canisters": {
+    "lottery_backend": {
+      "candid": "src/lottery_backend/lottery_backend.did",
+      "package": "lottery_backend",
+      "type": "rust"
     }
-  }
-  
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
