@@ -1,15 +1,14 @@
 use ic_cdk::export::Principal;
 use ic_cdk::api::{caller, time};
 use ic_cdk_macros::*;
+use ic_cdk::random::Uniform;
 
-// Define the smart contract struct
 struct LotteryGame {
     participants: Vec<Principal>,
     is_active: bool,
 }
 
 impl LotteryGame {
-    // Constructor
     fn new() -> Self {
         LotteryGame {
             participants: Vec::new(),
@@ -17,7 +16,6 @@ impl LotteryGame {
         }
     }
 
-    // Method to participate in the lottery
     fn participate(&mut self) {
         if self.is_active {
             let caller_principal = caller();
@@ -25,18 +23,16 @@ impl LotteryGame {
         }
     }
 
-    // Method to draw a winner
     fn draw_winner(&mut self) -> Option<Principal> {
         if self.is_active && !self.participants.is_empty() {
+            let winner_index = Uniform::new(0, self.participants.len()).sample(&mut ic_cdk::random::thread_rng());
             self.is_active = false;
-            let winner_index = time() as usize % self.participants.len();
             Some(self.participants[winner_index])
         } else {
             None
         }
     }
 
-    // Method to check if the lottery is active
     fn is_active(&self) -> bool {
         self.is_active
     }
@@ -44,23 +40,20 @@ impl LotteryGame {
 
 #[init]
 fn init() {
-    let _game = LotteryGame::new(); // Assign to a variable to keep the instance alive
+    let _game = LotteryGame::new();
 }
 
 #[update]
-fn participate() {
-    let mut game = LotteryGame::new();
+fn participate(game: &mut LotteryGame) {
     game.participate();
 }
 
-#[update]
-fn draw_winner() -> Option<Principal> {
-    let mut game = LotteryGame::new();
+#[update(admin)]
+fn draw_winner(game: &mut LotteryGame) -> Option<Principal> {
     game.draw_winner()
 }
 
 #[query]
-fn is_active() -> bool {
-    let game = LotteryGame::new();
+fn is_active(game: &LotteryGame) -> bool {
     game.is_active()
 }
